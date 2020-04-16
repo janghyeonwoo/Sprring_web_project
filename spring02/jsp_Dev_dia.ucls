@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.example.spring02.controller.chart.GoogleChartController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/chart/GoogleChartController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="224" x="3751" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.example.spring02.controller.board.ReplyController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/board/ReplyController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="286" x="5116" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.example.spring02.controller.board.BoardController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/board/BoardController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="283" x="3013" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.example.spring02.controller.admin.AdminController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/admin/AdminController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="365" x="4015" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.example.spring02.aop.MessageAdvice" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/aop/MessageAdvice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="201" x="4636" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.example.spring02.controller.chart.JFreeChartController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/chart/JFreeChartController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="276" x="5442" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.example.spring02.aop.LogAdvice" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/aop/LogAdvice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="199" x="4877" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.example.spring02.controller.pdf.PdfController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/pdf/PdfController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="162" x="2811" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.example.spring02.controller.shop.ProductController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/shop/ProductController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="224" x="1469" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.example.spring02.controller.shop.CartController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/shop/CartController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="259" x="1947" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.example.spring02.controller.member.MemberController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/member/MemberController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="288" x="914" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.example.spring02.controller.upload.ImageUploadController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/upload/ImageUploadController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="375" x="3336" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.example.spring02.controller.message.MessageController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/message/MessageController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="279" x="595" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.example.spring02.controller.upload.UploadController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/upload/UploadController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="300" x="255" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.example.spring02.controller.memo.MemoController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/memo/MemoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="223" x="2246" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.example.spring02.controller.upload.AjaxUploadController" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/controller/upload/AjaxUploadController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="262" x="2509" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.example.spring02.model.board.dto.BoardDTO" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/board/dto/BoardDTO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="247" width="174" x="1733" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.example.spring02.model.admin.AdminDAOImpl" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/admin/AdminDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="90" width="176" x="4420" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.example.spring02.model.board.dao.BoardDAOImpl" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/board/dao/BoardDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="90" width="228" x="5758" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="com.example.spring02.model.admin.AdminDAO" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/admin/AdminDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="90" width="176" x="4420" y="324"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="com.example.spring02.model.board.dao.ReplyDAOImpl" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/board/dao/ReplyDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="90" width="187" x="1242" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="com.example.spring02.model.board.dao.BoardDAO" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/board/dao/BoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="90" width="228" x="5758" y="324"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="23" language="java" name="com.example.spring02.model.board.dto.ReplyDTO" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/board/dto/ReplyDTO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="193" width="174" x="41" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="24" language="java" name="com.example.spring02.model.board.dao.ReplyDAO" project="spring02" 
+    file="/spring02/src/main/java/com/example/spring02/model/board/dao/ReplyDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="90" width="187" x="1242" y="324"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="25">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="26">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="27">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
