@@ -31,7 +31,7 @@ public class AdminController {
 			session.setAttribute("name", name);
 			mav.setViewName("admin/admin");
 			mav.addObject("message", "success");
-			/*로그2*/
+			/*로그4*/
 		}else {
 			mav.setViewName("admin/login");
 			mav.addObject("message","error");
